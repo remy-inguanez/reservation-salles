@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<div class="titre"><a href="https://fontmeme.com/fr/police-dragon-ball-z/"><img src="https://fontmeme.com/permalink/200207/2e266d67b4bc13d2a150599028cc35c6.png" alt="police-dragon-ball-z" border="0"></a><div>
+<div class="titre"><img src="https://fontmeme.com/permalink/200207/2e266d67b4bc13d2a150599028cc35c6.png" alt="police-dragon-ball-z" border="0"></a><div>
 <link rel="stylesheet" type="text/css" href ="index.css"/>
 <meta charset= "utf-8">
 <title>Inscription</title>

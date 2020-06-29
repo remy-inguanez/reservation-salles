@@ -6,7 +6,7 @@
 <link href="planning.css" rel="stylesheet">
 <meta charset= "utf-8">
 <link rel="icon" href="maitre_karin_4885.jpg"/>
-<div class="titre"><a href="https://fontmeme.com/fr/police-dragon-ball-z/"><img src="https://fontmeme.com/permalink/200622/6c0be20bfeaaa513d23bb960b7b3601a.png" alt="police-dragon-ball-z" border="0"></a></div>
+<div class="titre"><img src="https://fontmeme.com/permalink/200622/6c0be20bfeaaa513d23bb960b7b3601a.png" alt="police-dragon-ball-z" border="0"></a></div>
 <title>Planning</title>
 </head>
 

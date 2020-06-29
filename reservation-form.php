@@ -20,7 +20,7 @@ if(isset($_SESSION['login']))
 		<title>Réservation-form</title>
 		<link rel="icon" href="maitre_karin_4885.jpg"/>
 		<meta charset= "utf-8">
-		<div class="titre"><a href="https://fontmeme.com/fr/police-dragon-ball-z/"><img src="https://fontmeme.com/permalink/200624/fb755f7c0cc4b6468662d1f5d374412c.png" alt="police-dragon-ball-z" border="0"></a></div>
+		<div class="titre"><img src="https://fontmeme.com/permalink/200624/fb755f7c0cc4b6468662d1f5d374412c.png" alt="police-dragon-ball-z" border="0"></a></div>
 
 </head>
 

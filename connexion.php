@@ -34,7 +34,7 @@ $row= mysqli_fetch_array($result);
 <html>
 
 <head>
-<div class="titre"><a href="https://fontmeme.com/fr/police-dragon-ball-z/"><img src="https://fontmeme.com/permalink/200207/765d4bf14fd78aea8a7df3fc9a85ab38.png" alt="police-dragon-ball-z" border="0"></a></div>
+<div class="titre"><img src="https://fontmeme.com/permalink/200207/765d4bf14fd78aea8a7df3fc9a85ab38.png" alt="police-dragon-ball-z" border="0"></a></div>
 <link rel="icon" href="maitre_karin_4885.jpg"/>
 <link rel="stylesheet" type="text/css" href ="index.css"/>
 <meta charset= "utf-8">

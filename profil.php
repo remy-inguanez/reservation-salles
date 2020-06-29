@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<div class="titre"><a href="https://fontmeme.com/fr/police-dragon-ball-z/"><img src="https://fontmeme.com/permalink/200207/afdc294944403f533c1f308d7160d799.png" alt="police-dragon-ball-z" border="0"></a></div>
+<div class="titre"><img src="https://fontmeme.com/permalink/200207/afdc294944403f533c1f308d7160d799.png" alt="police-dragon-ball-z" border="0"></a></div>
 <link rel="stylesheet" href="index.css"/>
 <meta charset= "utf-8">
 <link rel="icon" href="maitre_karin_4885.jpg"/>
