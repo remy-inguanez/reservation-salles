@@ -126,7 +126,7 @@ if(isset($_SESSION['login']))
 		?>
 		<p class="affichage">
 		<?php
-		echo "*Heure minium de 8h";
+		echo "*Heure minimum de 8h";
 		?>
 
 		</p>
