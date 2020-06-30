@@ -8,7 +8,7 @@
   <meta charset="utf-8">
   <div class="titre">
     <img src="https://fontmeme.com/permalink/200206/db8644154a16f49a57eda9a064221af6.png" alt="police-dragon-ball-z" border="0">
-    </a>
+    
   </div>
   <link rel="icon" href="maitre_karin_4885.jpg" />
 </head>
