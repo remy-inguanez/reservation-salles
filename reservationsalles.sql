@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le :  ven. 12 juin 2020 à 09:07
+-- Généré le :  ven. 03 juil. 2020 à 08:02
 -- Version du serveur :  5.7.26
 -- Version de PHP :  7.2.18
 
@@ -37,7 +37,15 @@ CREATE TABLE IF NOT EXISTS `reservations` (
   `fin` datetime NOT NULL,
   `id_utilisateur` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+
+--
+-- Déchargement des données de la table `reservations`
+--
+
+INSERT INTO `reservations` (`id`, `titre`, `description`, `debut`, `fin`, `id_utilisateur`) VALUES
+(3, 'yjk;tgjugyh', 'ygttfd-z', '2020-06-24 12:00:00', '2020-06-24 13:00:00', 3),
+(4, 'entretien', 'rdv peda', '2020-06-30 11:00:00', '2020-06-30 12:00:00', 4);
 
 -- --------------------------------------------------------
 
@@ -51,7 +59,14 @@ CREATE TABLE IF NOT EXISTS `utilisateurs` (
   `login` varchar(255) NOT NULL,
   `password` varchar(255) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+
+--
+-- Déchargement des données de la table `utilisateurs`
+--
+
+INSERT INTO `utilisateurs` (`id`, `login`, `password`) VALUES
+(4, 'remyinguanez', '$2y$12$0j4lh1aykJmCDz52YxQ0Quh5nGTdRbZSNR2/R.sDdUkaohkx1NEaG');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
