@@ -67,7 +67,7 @@ $row= mysqli_fetch_array($result);
 
 <p class="page">
 Réservation salles &emsp;
-Remy.I  Adam.T ©  &emsp; 2020  &emsp; Tous droits réservés.  
+Remy.I  Adam.T Jeremy.B ©  &emsp; 2020  &emsp; Tous droits réservés.  
 </p>
 
 </footer>
