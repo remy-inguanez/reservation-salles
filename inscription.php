@@ -154,7 +154,7 @@ if(!empty($_POST['inscription']))
 
 <p class="page">
 Réservation salles &emsp;
-Remy.I  Adam.T ©  &emsp; 2020  &emsp; Tous droits réservés.  
+Remy.I  Adam.T Jeremy.B ©  &emsp; 2020  &emsp; Tous droits réservés.  
 </p>
 
 </footer>
